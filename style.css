@@ -1,0 +1,247 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+nav{
+    width: 100%;
+    height: 100px;
+    border: 2px solid rgba(126, 121, 121, 0.664);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+
+.or>span{
+    color: orange;
+    
+    
+}
+
+
+.Category:hover{
+    background-color: rgba(240, 240, 240, 0.753);
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+.Sign:hover{
+    background-color: rgba(240, 240, 240, 0.753);
+    cursor: pointer;
+    border-radius: 50px;
+    
+}
+
+.dil:hover{
+
+    background-color: rgba(240, 240, 240, 0.753);
+    cursor: pointer;
+    border-radius: 50px;
+    
+}
+
+nav>div>span{
+font-size: 40px;
+margin-left: 10px;
+}
+
+.cat{
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+nav>div>i{
+    font-size: 20px;
+}
+
+.serch{
+    width: 950px;
+    height: 40px;
+    display: flex;
+
+}
+
+input{
+    width: 850px;
+    height: 50px;
+    border-radius: 25px;
+    border-color: antiquewhite;
+    font-size: large;
+}
+
+
+.o{
+    font-size: 25px;
+    margin-left: 5px;
+    
+}
+
+.Sign>span{
+    font-size: 20px;
+
+}
+
+.dil>i{
+    margin-right: 10px;
+    gap: 5px;
+}
+h1{
+    text-align: center;
+}
+
+.main{
+    width: 100%;
+    height: 300%;
+    
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.box{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.box>span{
+    padding-left: 10px;
+}
+
+#box1>img{
+    
+    width: 140px;
+    height: 140px;
+    border-radius: 70px;
+
+}
+
+#box1>img:hover{
+    
+    width: 150px;
+    height: 150px;
+    cursor: pointer;
+    
+    
+
+}
+div>span:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#box2>img:hover{
+    
+    width: 150px;
+    height: 150px;
+    cursor: pointer;
+    
+
+}
+
+#box3>img:hover{
+    
+    width: 150px;
+    height: 150px;
+    cursor: pointer;
+    
+
+}
+
+#box4>img:hover{
+    
+    width: 150px;
+    height: 150px;
+    cursor: pointer;
+    
+
+}
+
+#box5>img:hover{
+    
+    width: 150px;
+    height: 150px;
+    cursor: pointer;
+    
+
+}
+
+#box6>img:hover{
+    
+    width: 150px;
+    height: 150px;
+    cursor: pointer;
+    
+
+}
+
+
+
+
+#box2>img{
+    
+    width: 140px;
+    height: 140px;
+    border-radius: 70px;
+
+}
+
+#box3>img{
+    
+    width: 140px;
+    height: 140px;
+    border-radius: 70px;
+
+}
+
+#box4>img{
+    
+    width: 140px;
+    height: 140px;
+    border-radius: 70px;
+
+}
+
+#box5>img{
+    
+    width: 140px;
+    height: 140px;
+    border-radius: 70px;
+
+}
+
+#box6>img{
+    
+    width: 140px;
+    height: 140px;
+    border-radius: 70px;
+
+}
+
+.a{
+    margin-top: 5%;
+
+}
+
+.main2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.boxs>img{
+    width: 200px;
+    height: 300px;
+    border: 1 sold black;
+    border-radius: 30px;
+    margin: 15px;
+    
+}
+
+.boxs>img:hover{
+    width: 350px;
+    height: 350px;
+    cursor: pointer;
+}
+
